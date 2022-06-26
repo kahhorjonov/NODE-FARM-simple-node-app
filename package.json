@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "simple node farm ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kahhorjonov/starter.git"
+  },
+  "author": "kahhorjonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kahhorjonov/starter/issues"
+  },
+  "homepage": "https://github.com/kahhorjonov/starter#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  },
+  "dependencies": {
+    "slugify": "^1.6.5"
+  }
+}
